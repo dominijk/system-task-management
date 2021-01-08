@@ -2,7 +2,7 @@
 name: Weekly and next week list
 about: Capture incoming tasks, default assignment is to the next week. At end of week
   copy the issue content into new issue and close
-title: Weekly lists
+title: W0x - 2021 Weekly lists
 labels: ''
 assignees: ''
 
