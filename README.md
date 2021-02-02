@@ -1,5 +1,5 @@
 # system-task-management
-Using the 1 3 5 approach, inspired by [Time Doctor](https://www.timedoctor.com/blog/1-3-5-rule/). Initially I ran this in [iA Writer](https://ia.net/writer) to beenfit from the syncing across devices. The trade off is between versioning benefits Github offers and ease of use that iA Writer offers. If using iA Writer or another markdown editor then strike through is preferble to toggle boxes, can combine iA Writer approach with Github on mac using WorkingCopy
+Using the 1 3 5 approach, inspired by [Time Doctor](https://www.timedoctor.com/blog/1-3-5-rule/). Initially I'm running this in [iA Writer](https://ia.net/writer) to benefit from the syncing across devices. The trade off is between versioning benefits Github offers and ease of use that iA Writer offers. If using iA Writer or another markdown editor then strike through is preferble to toggle boxes, can combine iA Writer approach with Github on mac using WorkingCopy
 
 Assumes your day is between
 |Min day length |Max day length  | 
